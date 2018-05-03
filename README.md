@@ -26,7 +26,7 @@ Each Calculator comes with an array of numbers, functions, and memory features.
 
 AND
 
-The Binary Calculator has 1,0,+,*,/,%,= as well as <<,>>,&&,||,~ and MR,MC,M+,M- and C.
+<b>The Binary Calculator</b> has 1,0,+,*,/,%,= as well as <<,>>,&&,||,~ and MR,MC,M+,M- and C.
 
 -> << shifts one bit to the left (makes 1 -> 10).
 
