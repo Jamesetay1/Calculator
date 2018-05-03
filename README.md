@@ -12,7 +12,7 @@ WHAT IT DOES
 -----------------------------------------------------------------------------------
 Each Calculator comes with an array of numbers, functions, and memory features.
 
-The Normal Calculator has 0-9,+,-,*,/,.,= as well as M+,M-,MR,MC and C.
+<b>The Normal Calculator</b> has 0-9,+,-,*,/,.,= as well as M+,M-,MR,MC and C.
 
 -> . will create a decimal number.
 
@@ -24,8 +24,7 @@ The Normal Calculator has 0-9,+,-,*,/,.,= as well as M+,M-,MR,MC and C.
 
 -> MC will clear the memory.
 
-
-
+AND
 
 The Binary Calculator has 1,0,+,*,/,%,= as well as <<,>>,&&,||,~ and MR,MC,M+,M- and C.
 
