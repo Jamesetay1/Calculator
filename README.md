@@ -11,11 +11,7 @@ WHAT IT DOES
 -----------------------------------------------------------------------------------
 Each Calculator comes with an array of numbers, functions, and memory features.
 The Normal Calculator has 0-9,+,-,*,/,.,= as well as M+,M-,MR,MC and C. 
--> . will create a decimal number.
--> M+ will add to memory.
--> M- will subtract from memory.
--> MR will show memory.
--> MC will clear the memory.
+
 
 The Binary Calculator has 1,0,+,*,/,%,= as well as <<,>>,&&,||,~ and MR,MC,M+,M- and C.
 -> << shifts one bit to the left (makes 1 -> 10).
